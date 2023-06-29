@@ -1,5 +1,5 @@
 <!--
-**yunsoo-choi/yunsoo-choi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**TTuk-TTak/TTuk-TTak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,20 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--
-**yunsoo-choi/yunsoo-choi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=DevYunS&fontSize=70&animation=twinkling)
 
 <p align="center">Server & BackEnd</p>
@@ -36,7 +22,7 @@ Here are some ideas to get you started:
 <br>
 <p align="center">
 <a href="https://code-getset.tistory.com/"><img src="http://img.shields.io/badge/tistory-4479A1?style=for-the-badge&logo=tistoryblog&logoColor=white&link=https://code-getset.tistory.com/"/></a>
-<a href="https://TTuk-TTak.github.io"><img src="http://img.shields.io/badge/techblog-181717?style=for-the-badge&logo=github&logoColor=white&link=https://yunsoo-choi.github.io"/></a>
+<a href="https://TTuk-TTak.github.io"><img src="http://img.shields.io/badge/techblog-181717?style=for-the-badge&logo=github&logoColor=white&link=https://TTuk-TTak.github.io"/></a>
 <a href="mailto:yyss241@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:yyss241@gmail.com"/></a>
 <a href="mailto:yyss241@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white&link=mailto:yyss241@naver.com"/></a>
 </p>
