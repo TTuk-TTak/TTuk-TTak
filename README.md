@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 <br>
 <p align="center">
 <a href="https://code-getset.tistory.com/"><img src="http://img.shields.io/badge/tistory-4479A1?style=for-the-badge&logo=tistoryblog&logoColor=white&link=https://code-getset.tistory.com/"/></a>
-<a href="https://yunsoo-choi.github.io"><img src="http://img.shields.io/badge/techblog-181717?style=for-the-badge&logo=github&logoColor=white&link=https://yunsoo-choi.github.io"/></a>
+<a href="https://TTuk-TTak.github.io"><img src="http://img.shields.io/badge/techblog-181717?style=for-the-badge&logo=github&logoColor=white&link=https://yunsoo-choi.github.io"/></a>
 <a href="mailto:yyss241@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:yyss241@gmail.com"/></a>
 <a href="mailto:yyss241@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white&link=mailto:yyss241@naver.com"/></a>
 </p>
